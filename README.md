@@ -18,6 +18,8 @@ main.py
 **git/**
 **Note: NOT THE .git FOLDER THE FOLDER WHICH SAYS GIT WITHOUT THE DOT BEFORE THE NAME.**
 
+then delete the django-easy fie 
+
 
 you can start using the tool by typing 
 
