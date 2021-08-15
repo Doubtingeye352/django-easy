@@ -6,25 +6,24 @@ to add this into your project just type
 
 **git clone https://github.com/Doubtingeye352/django-easy.git**
 
-and then navigate to the directory of the djangoeasy repository in your project
+and then create a folder where you code is there you can name this folder anything. Once done with that drag the following files into the code direcotry you just made:
 
- then run the command:
- 
- python main.py 
- 
- or 
- 
- python3 main.py 
- 
- and select a mode: 
- 
- heroku
- 
- git 
- 
-django
+**main.py
 
-if you want to exit the mode and stop the program just type exit!
+**dj/**
 
-print("Have fun programming!")
- 
+**pack1**/
+
+**git/**
+**Note: NOT THE .git FOLDER THE FOLDER WHICH SAYS GIT WITHOUT THE DOT BEFORE THE NAME.**
+
+
+you can start using the tool by typing 
+
+**python main.py**
+
+
+or
+
+
+**python3 main.py **
