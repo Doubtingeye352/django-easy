@@ -1,4 +1,4 @@
-# django-easy
+# djangoeasy
 
 Hey! This is a tool which helps you in the command line while programming in django, it has features like auto host and many more! This is for django only. This tool will be also extremly helpful for beginners!
 
@@ -18,7 +18,7 @@ main.py
 **git/**
 **Note: NOT THE .git FOLDER THE FOLDER WHICH SAYS GIT WITHOUT THE DOT BEFORE THE NAME.**
 
-then delete the django-easy fie 
+then delete the djangoeasy fie 
 
 
 you can start using the tool by typing 
