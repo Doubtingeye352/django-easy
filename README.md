@@ -26,5 +26,5 @@ django
 
 if you want to exit the mode and stop the program just type exit!
 
-Have fun programming!
+print("Have fun programming!")
  
