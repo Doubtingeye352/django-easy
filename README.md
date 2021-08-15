@@ -8,6 +8,7 @@ to add this into your project just type
 
 and then create a folder where you code is there you can name this folder anything. Once done with that drag the following files into the code direcotry you just made:
 
+
 main.py
 
 **dj/**
