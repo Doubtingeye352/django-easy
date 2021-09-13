@@ -39,3 +39,22 @@ def code():
             
     else:
         print("unkown command")
+        
+        
+def post(request):
+    #get items from front end and add them to the database
+    
+    if request.method == 'POST':
+        if request.POST.get('Title'):
+            c= code()
+            
+            c.Title = request.POST.get('Title')
+            c.Lang = request.POST.get('lang')
+            c.Snippet = request.POST.get('snippet')
+            c.Description = request.POST.get('des')
+            
+            c.save()
+            print('test')
+   
+    
+    return render(request, 'post.html')
